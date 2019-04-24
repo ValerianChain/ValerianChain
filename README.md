@@ -21,6 +21,7 @@ ValerianChain is under developments. In the first phase, We issued a token based
 
 To get involved, find us:
 
+* GitHub      : https://github.com/ValerianChain
 * Discord     : https://discord.gg/AYFZdvm
 * Telegram    : https://t.me/valerianchain
 * Twitter     : 
