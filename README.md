@@ -12,6 +12,7 @@ ValerianChain is an in-progress experimental integration between GrinCoin (Mimbl
 ## Status
 
 ValerianChain is under developments. In the first phase, We issued a token based on Waves Blockchain that will be swapped after mainnet:
+
   * Name       : ValerianChain 
   * Max Supply : 1 trillion
   * Asset ID   : 
@@ -20,9 +21,10 @@ ValerianChain is under developments. In the first phase, We issued a token based
 
 To get involved, find us:
 
-* Twitter  :
-* Discord  : 
-* Telegram :
+* Discord     : https://discord.gg/AYFZdvm
+* Telegram    : https://t.me/valerianchain
+* Twitter     : 
+* Bitcointalk : 
 
 ## Credits
 
