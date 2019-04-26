@@ -15,7 +15,7 @@ ValerianChain is under developments. In the first phase, We issued a token based
 
   * Name       : ValerianChain 
   * Max Supply : 1 trillion
-  * Asset ID   : 
+  * Asset ID   : FgyMXSBMD22DmZRF2rj3heBBLP6qjXTBDT11e8BHfvZB
 
 ## Contributing
 
@@ -24,8 +24,8 @@ To get involved, find us:
 * GitHub      : https://github.com/ValerianChain
 * Discord     : https://discord.gg/AYFZdvm
 * Telegram    : https://t.me/valerianchain
-* Twitter     : 
 * Bitcointalk : 
+* Explorer    : https://wavesdesk.com/asset/FgyMXSBMD22DmZRF2rj3heBBLP6qjXTBDT11e8BHfvZB
 
 ## Credits
 
