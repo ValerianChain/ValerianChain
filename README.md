@@ -17,7 +17,7 @@ ValerianChain is under developments. In the first phase, We issued a token based
   * Max Supply : 1 trillion
   * Asset ID   : FgyMXSBMD22DmZRF2rj3heBBLP6qjXTBDT11e8BHfvZB
   * ICO Price  : 0.00000001 Waves
-  * Swap Ratio : [i]undecided[/i]
+  * Swap Ratio : undecided
 
 ## Contributing
 
