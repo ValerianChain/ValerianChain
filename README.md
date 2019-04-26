@@ -24,7 +24,7 @@ To get involved, find us:
 * GitHub      : https://github.com/ValerianChain
 * Discord     : https://discord.gg/AYFZdvm
 * Telegram    : https://t.me/valerianchain
-* Bitcointalk : 
+* Bitcointalk : https://bitcointalk.org/index.php?topic=5136264.msg50777312#msg50777312
 * Explorer    : https://wavesdesk.com/asset/FgyMXSBMD22DmZRF2rj3heBBLP6qjXTBDT11e8BHfvZB
 
 ## Credits
