@@ -19,7 +19,7 @@ ValerianChain is under developments. In the first phase, We issued a token based
   * ICO Price  : 0.00000001 Waves
   * Swap Ratio : undecided
 
-## Contributing
+## Links
 
 To get involved, find us:
 
