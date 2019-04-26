@@ -16,6 +16,8 @@ ValerianChain is under developments. In the first phase, We issued a token based
   * Name       : ValerianChain 
   * Max Supply : 1 trillion
   * Asset ID   : FgyMXSBMD22DmZRF2rj3heBBLP6qjXTBDT11e8BHfvZB
+  * ICO Price  : 0.00000001 Waves
+  * Swap Ratio : [i]undecided[/i]
 
 ## Contributing
 
@@ -25,7 +27,11 @@ To get involved, find us:
 * Discord     : https://discord.gg/AYFZdvm
 * Telegram    : https://t.me/valerianchain
 * Bitcointalk : https://bitcointalk.org/index.php?topic=5136264.msg50777312#msg50777312
+
 * Explorer    : https://wavesdesk.com/asset/FgyMXSBMD22DmZRF2rj3heBBLP6qjXTBDT11e8BHfvZB
+
+* Exchange  : WavesPlatform --> https://client.wavesplatform.com 
+              or --> https://client.wavesplatform.com/dex?assetId2=FgyMXSBMD22DmZRF2rj3heBBLP6qjXTBDT11e8BHfvZB&assetId1=WAVES
 
 ## Credits
 
