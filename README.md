@@ -28,10 +28,8 @@ To get involved, find us:
 * Telegram    : https://t.me/valerianchain
 * Bitcointalk : https://bitcointalk.org/index.php?topic=5136264.msg50777312#msg50777312
 
-* Explorer    : https://wavesdesk.com/asset/FgyMXSBMD22DmZRF2rj3heBBLP6qjXTBDT11e8BHfvZB
-
-* Exchange  : WavesPlatform --> https://client.wavesplatform.com 
-              or --> https://client.wavesplatform.com/dex?assetId2=FgyMXSBMD22DmZRF2rj3heBBLP6qjXTBDT11e8BHfvZB&assetId1=WAVES
+* Exchange    : https://client.wavesplatform.com
+* Explorer    : https://wavesdesk.com/asset/FgyMXSBMD22DmZRF2rj3heBBLP6qjXTBDT11e8BHfvZB 
 
 ## Credits
 
