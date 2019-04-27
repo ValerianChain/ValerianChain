@@ -15,9 +15,9 @@ ValerianChain is under developments. In the first phase, We issued a token based
 
   * Name       : ValerianChain 
   * Max Supply : 1 trillion
-  * Asset ID   : FgyMXSBMD22DmZRF2rj3heBBLP6qjXTBDT11e8BHfvZB
   * ICO Price  : 0.00000001 Waves
   * Swap Ratio : undecided
+  * Asset ID   : FgyMXSBMD22DmZRF2rj3heBBLP6qjXTBDT11e8BHfvZB
 
 ## Links
 
@@ -30,10 +30,19 @@ To get involved, find us:
 * Bitcointalk : https://bitcointalk.org/index.php?topic=5136264.msg50777312#msg50777312
 
 * Exchange    : https://client.wavesplatform.com
-* Explorer    : https://wavesdesk.com/asset/FgyMXSBMD22DmZRF2rj3heBBLP6qjXTBDT11e8BHfvZB 
+* Explorer    : https://wavesblockexplorer.com/tx/FgyMXSBMD22DmZRF2rj3heBBLP6qjXTBDT11e8BHfvZB 
+
+
+## Donation Address (Funded for Exchanges: STEX & Crex24)
+
+* BTC   : 18HbRJossnAHYxqynNmYAFTXWgtjQCg3CQ
+* LTC   : MFkoG4c3mQFrt7GJ1imM21cSZ6t887z9X6
+* Waves : 3P832xQFaPmV5omYmM2Ry66RioGbLqbU798
+* ETH   : 0x8C17736F214e798C760fb419C641aD0298a61492
 
 ## Credits
 
+* Satoshi Nakamoto for Bitcoin creation.
 * Tom Elvis Jedusor for the first formulation of MimbleWimble.
 * Igno Peverell et al. for implementing MimbleWimble Protocol on Grin.
 * Tron Black, Joel Weight et al. for the first formulation of x16R on RavenCoin.
