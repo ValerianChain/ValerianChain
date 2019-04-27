@@ -27,7 +27,7 @@ To get involved, find us:
 * Twitter     : https://twitter.com/valerianchain
 * Discord     : https://discord.gg/AYFZdvm
 * Telegram    : https://t.me/valerianchain
-* Bitcointalk : https://bitcointalk.org/index.php?topic=5136264.msg50777312#msg50777312
+* Bitcointalk : https://bitcointalk.org/index.php?topic=5136272.0
 
 * Exchange    : https://client.wavesplatform.com
 * Explorer    : https://wavesexplorer.com/assets/FgyMXSBMD22DmZRF2rj3heBBLP6qjXTBDT11e8BHfvZB 
