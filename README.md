@@ -30,7 +30,7 @@ To get involved, find us:
 * Bitcointalk : https://bitcointalk.org/index.php?topic=5136264.msg50777312#msg50777312
 
 * Exchange    : https://client.wavesplatform.com
-* Explorer    : https://wavesblockexplorer.com/tx/FgyMXSBMD22DmZRF2rj3heBBLP6qjXTBDT11e8BHfvZB 
+* Explorer    : https://wavesexplorer.com/assets/FgyMXSBMD22DmZRF2rj3heBBLP6qjXTBDT11e8BHfvZB 
 
 
 ## Donation Address (Funded for Exchanges: STEX & Crex24)
