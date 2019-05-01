@@ -23,6 +23,7 @@ ValerianChain is under developments. In the first phase, We issued a token based
 
 To get involved, find us:
 
+* Website     : http://valerianchain.tech
 * GitHub      : https://github.com/ValerianChain
 * Twitter     : https://twitter.com/valerianchain
 * Discord     : https://discord.gg/AYFZdvm
