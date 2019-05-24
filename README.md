@@ -9,32 +9,44 @@ ValerianChain is an in-progress experimental integration between GrinCoin (Mimbl
   * Proof of Works, Proof of Stakes, and Masternodes.
   
 
-## Status
+## Status [BEFORE MIGRATING]
 
 ValerianChain is under developments. In the first phase, We issued a token based on Waves Blockchain that will be swapped after mainnet:
 
-  * Name       : ValerianChain 
-  * Max Supply : 1 trillion
-  * ICO Price  : 0.00000001 Waves
-  * Swap Ratio : undecided
-  * Asset ID   : FgyMXSBMD22DmZRF2rj3heBBLP6qjXTBDT11e8BHfvZB
+  * Name         : ValerianChain 
+  * Max Supply   : 1 trillion
+  * Asset ID     : FgyMXSBMD22DmZRF2rj3heBBLP6qjXTBDT11e8BHfvZB
+
+## Status [AFTER MIGRATING]
+
+ValerianChain migrates from Waves to Ethereum Blockchain (ratio 30:1)
+
+  * Name         : ValerianChain (VAL)
+  * Max Supply   : 30 billion
+  * Contract     : 0x733b77f9e5e17dbfadecdb17236c24e82c503501
 
 ## Links
-
-To get involved, find us:
 
 * Website     : http://valerianchain.tech
 * GitHub      : https://github.com/ValerianChain
 * Twitter     : https://twitter.com/valerianchain
 * Discord     : https://discord.gg/AYFZdvm
 * Telegram    : https://t.me/valerianchain
-* Bitcointalk : https://bitcointalk.org/index.php?topic=5136272.0
-
-* Exchange    : https://client.wavesplatform.com
-* Explorer    : https://wavesexplorer.com/assets/FgyMXSBMD22DmZRF2rj3heBBLP6qjXTBDT11e8BHfvZB 
 
 
-## Donation Address (Funded for Exchanges: STEX & Crex24)
+## Exchanges
+
+* WavesDEX     : https://client.wavesplatform.com
+* TokenJAR     : https://tokenjar.io/VAL 
+
+
+## Explorer
+
+* Waves    : https://wavesexplorer.com/assets/FgyMXSBMD22DmZRF2rj3heBBLP6qjXTBDT11e8BHfvZB
+* Ethereum : https://etherscan.io/token/0x733b77f9e5e17dbfadecdb17236c24e82c503501 
+
+
+## Donation Address (Funded for New Exchanges)
 
 * BTC   : 18HbRJossnAHYxqynNmYAFTXWgtjQCg3CQ
 * LTC   : MFkoG4c3mQFrt7GJ1imM21cSZ6t887z9X6
